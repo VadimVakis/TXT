@@ -1,0 +1,4 @@
+full_name: Vakis Vadim Erikovich,
+age: 26,
+pets: number 1, type_of_animal: dog, name: Bim, age": 12,
+desired salary: 400$
